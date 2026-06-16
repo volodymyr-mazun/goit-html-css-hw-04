@@ -1,23 +1,23 @@
-### Module 3. Box Model & Flexbox
+# GOIT HTML/CSS Homework 04
 
----
+Module 4. Decorative Effects
 
 ## Topics Covered
 
-- CSS Box Model
-- Element Geometry
-- Block and Inline Elements
-- Flexbox
-- Flex Container Properties
-- Flex Item Properties
+- Backgrounds
+- Box shadows
+- SVG graphics
+- Pseudo-elements
+- Positioning elements
+- CSS transitions
+- 2D transforms
 
 ## Technologies
 
 - HTML5
 - CSS3
 - Flexbox
-- Modern Normalize
-- Prettier
+- SVG
 
 ## Author
 
